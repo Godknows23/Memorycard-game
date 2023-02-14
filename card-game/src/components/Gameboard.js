@@ -2,7 +2,7 @@ import Card from "./Card";
 
 const Gameboard = (props) => {
   return (
-    <div className="ui four column internally celled grid">
+    <div className="grid">
       <Card {...props} />
     </div>
   );

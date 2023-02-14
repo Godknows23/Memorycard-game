@@ -4,7 +4,7 @@ import algeria from "../img/Algeria.png";
 import angola from "../img/Angola.png";
 import azerbaijan from "../img/Azerbaijan.png";
 import burkina from "../img/BurkinaFaso.png";
-import burundi from "../img/Burundi.png";
+import zimbabwe from "../img/Zimbabwe.png";
 import cameroon from "../img/Cameroon.png";
 import { useState, useEffect } from "react";
 
@@ -19,7 +19,7 @@ const Card = (props) => {
     "Angola",
     "Azerbaijan",
     "BurkinaFaso",
-    "Burundi",
+    "Zimbabwe",
     "Cameroon",
   ]);
 
@@ -30,7 +30,7 @@ const Card = (props) => {
     angola,
     azerbaijan,
     burkina,
-    burundi,
+    zimbabwe,
     cameroon,
   ]);
 
